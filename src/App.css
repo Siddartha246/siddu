@@ -1,0 +1,77 @@
+/* Professional-themed styling */
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+.profile-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  margin-bottom: 20px;
+}
+/* Header styling */
+.header {
+  background: #007bff;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.links a {
+  color: #fff;
+  margin-left: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  border-bottom: 2px solid #007bff;
+  display: inline-block;
+}
+
+.skills-logos {
+  display: flex;
+  gap: 15px;
+}
+
+.skill-item {
+  text-align: center;
+}
+
+.skill-logo {
+  width: 60px;
+  height: 60px;
+  transition: transform 0.3s;
+}
+.skill-logo:hover {
+  transform: scale(1.2);
+}
+
+/* Footer */
+.footer {
+  background: #007bff;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 20px;
+}
