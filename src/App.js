@@ -56,7 +56,7 @@ const App = () => {
           <ul>
             <li>B.Tech in Computer Science, SR University, Warangal (2021-2025) | GPA: 7.3</li>
             <li>Board of Intermediate, SR Prime College, Warangal | Percentage: 76%</li>
-            <li>SSC, SR Prime School, Warangal | Percentage: 61%</li>
+            <li>CBSE, SR Prime School, Warangal | Percentage: 61%</li>
           </ul>
         </section>
 
